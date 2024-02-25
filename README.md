@@ -54,26 +54,26 @@ Adhering to these GDPR principles in healthcare software development not only en
 
 The GDPR enhances and protects the rights of EU citizens regarding their personal data. In healthcare software development, respecting these rights is paramount. Here's an overview of the key rights of data subjects under GDPR:
 
-### The Right to Be Informed
-- Individuals have the right to know how their data is collected, used, and shared. Healthcare applications must provide clear, accessible information about these processes.
+**The Right to Be Informed**
+Individuals have the right to know how their data is collected, used, and shared. Healthcare applications must provide clear, accessible information about these processes.
 
-### The Right of Access
-- Data subjects can request access to their personal data. Healthcare providers must furnish a copy of the data, free of charge, in an electronic format if requested.
+**The Right of Access**
+Data subjects can request access to their personal data. Healthcare providers must furnish a copy of the data, free of charge, in an electronic format if requested.
 
-### The Right to Rectification and Erasure
-- Individuals can have their data corrected if it is inaccurate or incomplete. They also have the "right to be forgotten," meaning they can request the deletion or removal of personal data when there is no compelling reason for its continued processing.
+**The Right to Rectification and Erasure**
+Individuals can have their data corrected if it is inaccurate or incomplete. They also have the "right to be forgotten," meaning they can request the deletion or removal of personal data when there is no compelling reason for its continued processing.
 
-### The Right to Restrict Processing
-- Data subjects have the right to 'block' or suppress processing of their data. In healthcare, this could mean pausing the processing of patient data while accuracy or consent is contested.
+**The Right to Restrict Processing**
+Data subjects have the right to 'block' or suppress processing of their data. In healthcare, this could mean pausing the processing of patient data while accuracy or consent is contested.
 
-### The Right to Data Portability
-- Individuals can obtain and reuse their personal data for their own purposes across different services. This means they can transfer their health data from one IT environment to another safely and securely.
+**The Right to Data Portability**
+Individuals can obtain and reuse their personal data for their own purposes across different services. This means they can transfer their health data from one IT environment to another safely and securely.
 
-### The Right to Object
-- Data subjects have the right to object to the processing of their personal data in certain circumstances, including for direct marketing, research, or statistical purposes.
+**The Right to Object**
+Data subjects have the right to object to the processing of their personal data in certain circumstances, including for direct marketing, research, or statistical purposes.
 
 ### Rights Related to Automated Decision Making and Profiling
-- GDPR provides safeguards for individuals against the risk that a potentially damaging decision is made without human intervention. Data subjects have the right not to be subject to a decision based solely on automated processing.
+GDPR provides safeguards for individuals against the risk that a potentially damaging decision is made without human intervention. Data subjects have the right not to be subject to a decision based solely on automated processing.
 
 Healthcare software developers must ensure their applications are designed and function in ways that respect and facilitate the exercise of these rights.
 
